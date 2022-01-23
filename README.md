@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<a href="https://app.daily.dev/Alanzphy"><img src="https://api.daily.dev/devcards/603686c6a67242dc8846ac576dac498e.png?r=48v" width="400" alt="Alan Ruiz's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Alanzphy/Alanzphy/blob/master/devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
 <!--
 **Alanzphy/Alanzphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
