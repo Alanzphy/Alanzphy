@@ -1,5 +1,5 @@
 # ∼ About Me ☀️
- • **I am a new Developer Traineer**
+ • **I am a new Developer Trainer**
 
 <div>
 <img align="right"height="250em" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
