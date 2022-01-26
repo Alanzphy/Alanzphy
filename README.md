@@ -1,12 +1,12 @@
 <div >
-<img height="250em" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
-<p align-"right" width="200px">Hi there👋<p/> 
+<img align="right"height="250em" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
+<p>Hi there👋<p/> 
 <div/>
     
-    
+  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=moltack" alt="Alan's stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&theme=moltack" alt="Alan's stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
 <div/>
 
 <hr>
