@@ -1,5 +1,5 @@
 # ∼ About Me ∼ ☀️ 
- • **I am a new Developer Trainer**
+ • **I am a new Developer Jr**
 <img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
  <a href="https://github.com/Alanzphy">
  
