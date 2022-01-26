@@ -19,7 +19,7 @@
   <a href="https://open.spotify.com/user/wmzn2o25mq9whtu456pjek80f" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify profile"><a/>
  <div/>
 
-<a href="https://app.daily.dev/Alanzphy"><img width="500em" height="500em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
+<a href="https://app.daily.dev/Alanzphy"><img align="left" width="400em" height="400em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
 
       
-s
+
