@@ -22,3 +22,4 @@
 <a href="https://app.daily.dev/Alanzphy"><img width="500em" height="500em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
 
       
+s
