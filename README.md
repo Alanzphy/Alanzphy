@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=blue-green" alt="Alan's stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&theme=blue-green" alt="Alan's stats">
 
-<img src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
+<img lenght="140em" width="140em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
 
 <div>
     <a href="https://www.instagram.com/alanzphy/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" ><a/>
