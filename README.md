@@ -27,8 +27,8 @@
 
 # ∼ Github Stats ∼ 📊
 <div style="display:inline_block" align="center">
-  <img  height="180em" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
-  <img  height="180em" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
+  <img  height="180" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
+  <img  height="120" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
  
 <div/>
 
