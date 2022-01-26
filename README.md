@@ -3,7 +3,7 @@
 <img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 <div>
-<img align="right"height="250em" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
+<img align="right" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
 <div>
   <a href="https://www.linkedin.com/in/alan-ruiz-silva-103b72220/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile" ><a/>
   <a href="https://twitter.com/Alanzphy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter profile"><a/>
@@ -26,7 +26,7 @@
 # ∼ Github Stats ∼ 📊
 <div align="center">
   <img width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
-  <img width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
+  <img width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
  
 <div/>
 
@@ -36,7 +36,6 @@
 
 <img align="bottom" width="200em" href="https://github.com/Alanzphy" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alanzphy)
 
 <img align="center" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 
