@@ -24,21 +24,21 @@
 
 
 # ∼ Github Stats ∼ 📊
-<div >
-  <img width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
-  <img width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
- 
-<div/>
+<div style="display:inline_block">
+  <img  width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
+  <img  width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
+ <div/>
 
 <hr>
 
+<div>
 <a href="https://app.daily.dev/Alanzphy"><img align="left" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
 
 <img align="bottom" width="200em" href="https://github.com/Alanzphy" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
 
 <img align="center" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-
+<div/>
 
 
       
