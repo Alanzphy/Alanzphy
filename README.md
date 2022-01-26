@@ -1,12 +1,12 @@
 <div >
-<img lenght="250em" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
-<p width="200px">Hi there👋<p/> 
+<img height="250em" width="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar">
+<p align-"right" width="200px">Hi there👋<p/> 
 <div/>
     
     
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=blue-green" alt="Alan's stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&theme=blue-green" alt="Alan's stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=moltack" alt="Alan's stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&theme=moltack" alt="Alan's stats">
 <div/>
 
 <hr>
@@ -19,4 +19,6 @@
   <a href="https://open.spotify.com/user/wmzn2o25mq9whtu456pjek80f" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify profile"><a/>
  <div/>
 
-<a href="https://app.daily.dev/Alanzphy"><img width="300em" lenght="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
+<a href="https://app.daily.dev/Alanzphy"><img width="500em" height="500em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
+
+      
