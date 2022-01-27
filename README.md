@@ -26,7 +26,7 @@
 
 
 # ∼ Github Stats ∼ 📊
-<div >
+<div align="center">
   <img  width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&include_all_commits=true&theme=moltack" alt="Alan's stats">
   <img  width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
  
