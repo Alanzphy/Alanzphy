@@ -30,6 +30,7 @@
 <div align="center">
   <img  width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=moltack" alt="Alan's stats">
   <img  width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanzphy&theme=moltack&hide_border=true" alt="#Alan" />
  
 <div/>
 
