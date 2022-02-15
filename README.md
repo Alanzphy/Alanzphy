@@ -1,7 +1,14 @@
 # ∼ About Me ∼ ☀️ 
- • **I am a new Developer Jr**
-<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
- <a href="https://github.com/Alanzphy">
+ • **Hi, I'm Alan from Mexico and started self-taught since 1 year, i have currently 17 years old, im learning about Cloud Computing, Web Development and DevOps**<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+ 
+ - 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
+- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
+- 📫 How to reach me:
+
+
  
 
 <div>
@@ -36,9 +43,9 @@
 
 
 <div>
-<a href="https://app.daily.dev/Alanzphy"><img align="right" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Alanzphy"><img align="right" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a> -->
 
-<img align="bottom" width="150em" href="https://github.com/Alanzphy" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+### `We want to use the popular paperback model whereby the author is responsible for making himself clear and not the academic model where it is the scholar’s job to dig the meaning out of the paper."` - _Robert C. Martin_
 
 
 <img align="center" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
