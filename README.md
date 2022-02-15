@@ -1,12 +1,11 @@
 # ∼ About Me ∼ ☀️ 
- • **Hi, I'm Alan from Mexico and started self-taught since 1 year, i have currently 17 years old, im learning about Cloud Computing, Web Development and DevOps**<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+ • **Hi, I'm Alan from Mexico and started self-taught since 1 year, i have currently 17 years old**<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
  
- - 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
-- 📫 How to reach me:
+ - 👨🏻‍💻 I’m currently learning English Grammar.
+- ⚡ I like learning about Cloud Computing | CyberSecurity | Linux Environment |
+- 💻 I’m currently use Arch-Linux as main SO <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
+
+
 
 
  
