@@ -3,7 +3,8 @@
  
  - 👨🏻‍💻 I’m currently learning English Grammar.
 - ⚡ I like learning about Cloud Computing | CyberSecurity | Linux Environment |
-- 💻 I’m currently use Arch-Linux as main SO <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
+- 🎈 Interested in reading about Web 3
+- 💻 I use Arch-Linux as main SO <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
 
 
 
@@ -31,6 +32,9 @@
 
 
 
+  
+<br><br> 
+  
 # ∼ Github Stats ∼ 📊
   <br>
 <div align="center">
@@ -43,6 +47,7 @@
 
 <div>
 <!-- <a href="https://app.daily.dev/Alanzphy"><img align="right" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a> -->
+ 
 
 ### `We want to use the popular paperback model whereby the author is responsible for making himself clear and not the academic model where it is the scholar’s job to dig the meaning out of the paper."` - _Robert C. Martin_
 
