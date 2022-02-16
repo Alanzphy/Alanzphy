@@ -1,5 +1,5 @@
 # ∼ About Me ∼ ☀️ 
-### Hi, I'm Alan from Mexico and started self-taught since 1 year, i have currently 17 years old**<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+### Hi, I'm Alan from Mexico and started self-taught since 1 year, i have currently 17 years old<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
  
  - 👨🏻‍💻 I’m currently learning English Grammar.
 - ⚡ I like learning about Cloud Computing | CyberSecurity | Linux Environment |
