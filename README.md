@@ -2,9 +2,9 @@
 ### Hi, I'm Alan from Mexico and started self-taught since 1 year, i have currently 17 years old<img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
  
  - 👨🏻‍💻 I’m currently learning English Grammar.
-- ⚡ I like learning about Cloud Computing | CyberSecurity | Linux Environment |
+- ⚡ I like learning about Cloud Computing | DevOps | Web Development |
 - 🎈 Interested in reading about Web 3
-- 💻 I use Linux as main SO <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
+- 💻 I use Linux as main SO to learn about new trends <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
 
 
 
