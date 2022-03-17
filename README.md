@@ -4,7 +4,7 @@
  - 👨🏻‍💻 I’m currently learning English Grammar.
 - ⚡ I like learning about Cloud Computing | DevOps | Web Development |
 - 🎈 Interested in reading about Web 3
-- 💻 I use Linux as main SO to learn about new trends <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
+- 💻 I use Linux as main SO to explore about new technologies <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
 
 
 
@@ -27,6 +27,7 @@
     <img  align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" width="50em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
  <div/>
 
