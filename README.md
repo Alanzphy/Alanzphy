@@ -4,7 +4,7 @@
  - 👨🏻‍💻 I’m currently learning English Grammar.
 - ⚡ I like learning about Cloud Computing | DevOps | Web Development |
 - 🎈 Interested in reading about Web 3
-- 💻 I use Linux as main SO to explore about new ways of implementation, production and software creation <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
+- 💻 I use Linux as main SO to explore about new ways of deployment, implementation, production and software creation <img width="90" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" >
 
 
 
