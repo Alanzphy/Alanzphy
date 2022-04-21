@@ -24,27 +24,47 @@
     
 # ∼ Tech Stack ∼ 🖥️
  <div >
+  <img align="center" width="45em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />     
+   <img align="center" width="47em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
     <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" width="50em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" width="43em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img align="center" width="43em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
+  
+ 
  <div/>
-
+          
 
 
   
 <br><br> 
   
-# ∼ Github Stats ∼ 📊
+# ∼ Stats ∼ 📊
   <br>
-<div align="center">
+
+<div align="center" >
+<details >
+  <summary>🌊  GitHub Stats</summary>
   <img  width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=moltack" alt="Alan's stats">
-  <img  width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanzphy&theme=moltack&hide_border=true" alt="#Alan" />
- 
+</details>
+
+<details>
+  <summary>🌫 Most Used Languages</summary>
+ <img  width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
+</details>
 <div/>
 
 
+---
+ 
+ 
+ 
 <div>
+ 
+<!--  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanzphy&theme=moltack&hide_border=true" alt="#Alan" /> -->
+ 
 <!-- <a href="https://app.daily.dev/Alanzphy"><img align="right" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a> -->
  
 
