@@ -16,8 +16,9 @@
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/alan-ruiz-silva-%F0%9F%8C%8A-103b72220/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile" ><a/>
   <a href="https://twitter.com/Alanzphy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter profile"><a/>
+  <a href="mailto:alanzphy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail contact"><a/>
   <a href="https://www.instagram.com/alanzphy/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" ><a/>
-   <a href="mailto:alanzphy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail contact"><a/>
+
   <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='100'>
  <div/>
 <div/>
