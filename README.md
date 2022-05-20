@@ -5,12 +5,6 @@
 - ⚡ I like learning about Cloud Computing | DevOps | Web Development |
 - 🎈 Interested in reading about Web 3
 - 💻 I use Linux as main SO to explore about new ways of deployment, implementation, production and software creation <img width="90" src="https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white" >
-
-
-
-
- 
-
 <div>
 <img align="right" height="250em" src="https://cdn.discordapp.com/attachments/935686161836437575/935686240857112656/Alan_avatar.png" alt="Alan's avatar" style="border-radius:50px;" >
 <div style="display: inline_block">
