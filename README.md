@@ -26,7 +26,7 @@
   <img align="center" width="40em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" width="43em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
-  <img align="center" width="43em" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
+
   
  
  <div/>
