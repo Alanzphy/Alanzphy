@@ -1,10 +1,5 @@
 # ∼ About Me ∼ ☀️ 
 
- 
- - 👨🏻‍💻 I’m currently learning English Grammar.
-- ⚡ I like learning about Cloud Computing | DevOps | Web Development |
-- 🎈 Interested in reading about Web 3
-- 💻 I use Linux as main SO to explore about new ways of deployment, implementation, production and software creation 
 <div>
 <img align="right" height="250" src="https://cdn.discordapp.com/attachments/935686161836437575/1016902259214393389/download20220102155855.png" alt="Alan's avatar" style="border-radius:50px;" > 
 <div style="display: inline_block">
