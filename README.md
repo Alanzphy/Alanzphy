@@ -1,38 +1,59 @@
-# ∼ About Me ∼ ☀️ 
+
+# ☀️ Me ~/$HOME  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='90'>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
+```yaml
+"$ref": "alanz://schema/io.k8s.api.apps.v19.deploymentstatus"
+
+apiVersion: v19
+kind: Person 🧑‍🦱
+metadata:
+  name: Alan Ruiz
+  role: SysAdmin
+  replicas: 1
+  image: /Alanzphy/README:v19
+spec:
+  description: Craft and improve environments for the best workflow 🔧
+  tools:
+    - Go
+    - Bash
+    - Python
+    - Docker
+    - Kubernetes
+  languageSpoken:
+    - es_MX 🇲🇽
+    - en_US 🌎
+  locations:
+    - type: Twitter
+        where: https://twitter.com/Alanzphy
+    - type: Linkedin
+        where: https://www.linkedin.com/in/alanruizs/
+    - type: Discord
+        where: Alanzphy#1773 || alanzphy
+```
+
+
+
+ 
 
 <div>
-<img align="right" height="250" src="https://cdn.discordapp.com/attachments/935686161836437575/1016902259214393389/download20220102155855.png" alt="Alan's avatar" style="border-radius:50px;" > 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/alanruizs/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile" ><a/>
+<!-- <img align="right" height="250" src="https://cdn.discordapp.com/attachments/935686161836437575/1016902259214393389/download20220102155855.png" alt="Alan's avatar" style="border-radius:50px;" >  -->
+  <div align="center" style="display: inline_block">
+    <a href="https://www.linkedin.com/in/alanruizs/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin   profile" ><a/>
   <a href="mailto:alanzphy@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail contact"><a/>
 
   
-   <div/>
- <div/>
-<!--  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'> -->
+  <div/>
+<div/>
+
     
-# ∼ Tech Stack ∼ 🖥️
+
    
- <div>
-   <a href="https://github.com/alanzphy">
-  <img align="center" width="45" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />     
-   <img align="center" width="47" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
-    <img align="center" width="40" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="50" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" width="40" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" width="43" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-
-  
- 
- <div/>
-          
-
 
   
 <br><br>
   
-# ∼ Stats ∼ 📊
 
 <div align="center" >
   <a href="https://github.com/alanzphy">
@@ -40,14 +61,20 @@
 <img  width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
 <div/>
  
- 
----
- 
- 
- 
+
 <div>
  
-<!--  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanzphy&theme=moltack&hide_border=true" alt="#Alan" /> -->
+<!--  
+
+ <div>
+   <a href="https://github.com/alanzphy">   
+  <img align="center" width="50" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" width="40" href="https://github.com/Alanzphy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+ <div/>
+ 📊 Stats
+ 🖥️ Tech Stack 
+
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanzphy&theme=moltack&hide_border=true" alt="#Alan" /> -->
  
 <!-- <a href="https://app.daily.dev/Alanzphy"><img align="right" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a> -->
 
