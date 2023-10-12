@@ -30,7 +30,7 @@ spec:
     - type: Linkedin
         where: https://www.linkedin.com/in/alanruizs/
     - type: Discord
-        where: Alanzphy#1773 || alanzphy
+        where: Alanzphy#0213 || alanzphy.
 ```
 
 
