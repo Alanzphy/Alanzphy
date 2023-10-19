@@ -1,7 +1,13 @@
+# ~/  
 
-# ☀️ Me ~/$HOME  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='90'>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
+<!--  
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+-->
+
+
+
 
 ```yaml
 "$ref": "alanz://schema/io.k8s.api.apps.v19.deploymentstatus"
@@ -32,7 +38,7 @@ spec:
     - type: Discord
         where: Alanzphy#0213 || alanzphy.
 ```
-
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='90'> 
 
 
  
