@@ -60,12 +60,14 @@ spec:
   
 <br><br>
   
-
+<!-- 
 <div align="center" >
   <a href="https://github.com/alanzphy">
 <img  width="400" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api?username=Alanzphy&theme=moltack" alt="Alan's stats">
 <img  width="350" href="https://github.com/Alanzphy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzphy&layout=compact&langs_count=10&theme=moltack" alt="Alan's stats">
 <div/>
+-->
+
  
 
 <div>
@@ -83,8 +85,9 @@ spec:
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanzphy&theme=moltack&hide_border=true" alt="#Alan" /> -->
  
 <!-- <a href="https://app.daily.dev/Alanzphy"><img align="right" width="300em" height="300em" src="devcard.svg" width="400" alt="Alan Ruiz's Dev Card"/></a> -->
+<img align="center" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> 
 
-<img align="center" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+
 <div/>
 
 
