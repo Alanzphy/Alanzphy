@@ -12,13 +12,13 @@
 ```yaml
 "$ref": "alanz://schema/io.k8s.api.apps.v19.deploymentstatus"
 
-apiVersion: v19
+apiVersion: v20
 kind: Person 🧑‍🦱
 metadata:
   name: Alan Ruiz
   role: SysAdmin
   replicas: 1
-  image: /Alanzphy/README:v19
+  image: /Alanzphy/README:v20
 spec:
   description: Craft and improve environments for the best workflow 🔧
   tools:
@@ -26,7 +26,7 @@ spec:
     - Bash
     - Python
     - Docker
-    - Kubernetes
+    - Azure
   languageSpoken:
     - es_MX 🇲🇽
     - en_US 🌎
