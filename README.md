@@ -12,7 +12,7 @@
 ```yaml
 "$ref": "alanz://schema/io.k8s.api.apps.v19.deploymentstatus"
 
-apiVersion: v20
+apiVersion: v22
 kind: Person 🧑‍🦱
 metadata:
   name: Alan Ruiz
