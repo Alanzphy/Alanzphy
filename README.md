@@ -10,15 +10,15 @@
 
 
 ```yaml
-"$ref": "alanz://schema/io.k8s.api.apps.v19.deploymentstatus"
+"$ref": "alanz://schema/io.k8s.api.apps.v23.deploymentstatus"
 
-apiVersion: v22
+apiVersion: v23
 kind: Person 🧑‍🦱
 metadata:
   name: Alan Ruiz
   role: SysAdmin
   replicas: 1
-  image: /Alanzphy/README:v20
+  image: /Alanzphy/README:v23
 spec:
   description: Craft and improve environments for the best workflow 🔧
   tools:
